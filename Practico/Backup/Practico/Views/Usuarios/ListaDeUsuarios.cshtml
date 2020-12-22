@@ -1,0 +1,39 @@
+﻿@model List<Practico.Models.UserModel>
+
+
+@{
+    ViewBag.Title = "ListaDeUsuarios";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lista De Usuarios</h2>
+
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Nombre</th>
+        <th>Apellido</th>
+        <th>Nombre del Usuario</th>
+        <th>Email</th>
+        <th>Rol</th>
+    </tr>
+@foreach (var usuario in Model)
+{ 
+        <tr>
+            <td>@usuario.Id</td>
+            <td>@usuario.Nombre</td>
+            <td>@usuario.Apellido</td>
+            <td>@usuario.NombreUsuario</td>
+            <td>@usuario.Email</td>
+            <td>@usuario.RolUsuario</td>
+        </tr>
+}
+</table>
+
+<ul>
+    <li><a>@Html.ActionLink("Login", "Index", "Home")</a></li>
+    <li><a>@Html.ActionLink("Registro", "Index", "Usuarios")</a></li>
+    <li><a>@Html.ActionLink("Lista de Usuarios", "ListaDeUsuarios", "Usuarios")</a></li>
+    <li><a>@Html.ActionLink("About", "About", "Home")</a></li>
+    <li><a>@Html.ActionLink("Pagina Restringida", "Index", "PaginaRestringida")</a></li>
+</ul>

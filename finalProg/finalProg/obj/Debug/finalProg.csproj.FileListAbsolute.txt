@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2010\Projects\finalProg\finalProg\bin\finalProg.dll
+c:\users\alumno\documents\visual studio 2010\Projects\finalProg\finalProg\bin\finalProg.pdb
+c:\users\alumno\documents\visual studio 2010\Projects\finalProg\finalProg\bin\EntityFramework.dll
+c:\users\alumno\documents\visual studio 2010\Projects\finalProg\finalProg\bin\EntityFramework.xml
+c:\users\alumno\documents\visual studio 2010\Projects\finalProg\finalProg\obj\Debug\finalProg.dll
+c:\users\alumno\documents\visual studio 2010\Projects\finalProg\finalProg\obj\Debug\finalProg.pdb

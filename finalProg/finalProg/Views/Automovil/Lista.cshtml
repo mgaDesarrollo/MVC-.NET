@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "Lista";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lista</h2>
+
+<fieldset> 
+    <legend>Automoviles</legend>
+@{ if(Model != null) { 
+
+    <text>
+    <table>
+        <tr>
+            <th>Marca</th>
+            <th>Modelo</th>
+            <th>Patente</th>
+            
+        </tr>
+    </text>
+            foreach (var x in Model)
+            {
+                <tr>
+                    <td>@x.Marca</td>
+                    <td>@x.Modelo</td>
+                    <td>@x.Patente</td>
+                    
+                </tr>
+            }
+        
+    @:</table>
+
+    } 
+    else 
+    {
+        @: No Hay Autos Cargados
+    }
+}
+</fieldset>

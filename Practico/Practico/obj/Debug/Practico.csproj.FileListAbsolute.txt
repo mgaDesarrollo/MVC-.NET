@@ -1,0 +1,22 @@
+D:\ASP NET\Practico\Practico\bin\Practico.dll
+D:\ASP NET\Practico\Practico\bin\Practico.pdb
+D:\ASP NET\Practico\Practico\bin\EntityFramework.dll
+D:\ASP NET\Practico\Practico\bin\EntityFramework.xml
+D:\ASP NET\Practico\Practico\obj\Debug\Practico.dll
+D:\ASP NET\Practico\Practico\obj\Debug\Practico.pdb
+D:\ASP NET\Practico\Practico\obj\Debug\Practico.csprojResolveAssemblyReference.cache
+C:\Users\alumno.GABINF\Desktop\Avendaño\PracticoProgramacion\Practico\Practico\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alumno.GABINF\Desktop\Avendaño\PracticoProgramacion\Practico\Practico\obj\Debug\Practico.dll
+C:\Users\alumno.GABINF\Desktop\Avendaño\PracticoProgramacion\Practico\Practico\bin\Practico.dll
+C:\Users\alumno.GABINF\Desktop\Avendaño\PracticoProgramacion\Practico\Practico\bin\Practico.pdb
+C:\Users\alumno.GABINF\Desktop\Avendaño\PracticoProgramacion\Practico\Practico\bin\EntityFramework.dll
+C:\Users\alumno.GABINF\Desktop\Avendaño\PracticoProgramacion\Practico\Practico\bin\EntityFramework.xml
+C:\Users\alumno.GABINF\Desktop\Avendaño\PracticoProgramacion\Practico\Practico\obj\Debug\Practico.pdb
+C:\Users\Gabriel\Desktop\web\Avendaño\Avendaño\PracticoProgramacion\Practico\Practico\bin\Practico.dll.config
+C:\Users\Gabriel\Desktop\web\Avendaño\Avendaño\PracticoProgramacion\Practico\Practico\bin\Practico.dll
+C:\Users\Gabriel\Desktop\web\Avendaño\Avendaño\PracticoProgramacion\Practico\Practico\bin\Practico.pdb
+C:\Users\Gabriel\Desktop\web\Avendaño\Avendaño\PracticoProgramacion\Practico\Practico\bin\EntityFramework.dll
+C:\Users\Gabriel\Desktop\web\Avendaño\Avendaño\PracticoProgramacion\Practico\Practico\bin\EntityFramework.xml
+C:\Users\Gabriel\Desktop\web\Avendaño\Avendaño\PracticoProgramacion\Practico\Practico\obj\Debug\Practico.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\web\Avendaño\Avendaño\PracticoProgramacion\Practico\Practico\obj\Debug\Practico.dll
+C:\Users\Gabriel\Desktop\web\Avendaño\Avendaño\PracticoProgramacion\Practico\Practico\obj\Debug\Practico.pdb

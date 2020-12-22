@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Pagina Restringida</h2>
+
+<form method="post" action="@Url.Action("cambiarClave")">
+<fieldset>
+    <p> <label> Ingrese contraseña actual </label><input type="password" name="ClaveActual" />
+    <label> Ingrese contraseña nueva </label><input type="password" name="ClaveNueva" />
+    </p>
+    <button type="submit">Guardar!</button>
+
+
+</fieldset>
+</form>

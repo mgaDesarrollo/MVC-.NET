@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="prog3recuperatorio2" Class="dbAutoDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=172.16.139.254;Initial Catalog=prog3recuperatorio2;User ID=tecnicatura" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="prog3recuperatorio2ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Automovil" Member="Automovils">
+    <Type Name="Automovil">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Patente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Marca" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Modelo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Registrar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Registrar</h2>
+
+<fieldset>
+<form method="post">
+<label>Patente :</label><input type="text" name="Patente" />
+<label>Modelo :</label><input type="text" name="Modelo" />
+<label>Marca :</label><select name="Marca">
+<option value ="Toyota">Toyota</option>
+<option value ="Ford">Ford</option>
+<option value ="Renault" >Renault</option>
+<option value ="Volksvagen" >Volksvagen</option>
+
+</select>
+
+<button type="submit">Registrar</button>
+</form>
+</fieldset>
